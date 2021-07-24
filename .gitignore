@@ -1,0 +1,10 @@
+# IDE
+.idea
+.vscode
+
+# python
+__pycache__
+.mypy_cache
+.pytest_cache
+
+
