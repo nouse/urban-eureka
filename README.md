@@ -3,7 +3,7 @@ Source code of my book [&lt;Win Efficiently&gt;(Chinese name: 高效制胜)](htt
 
 # Prerequisites
 
-Use `pip install -r requirement.txt` or `conda create -f eureka.yml` to install prerequisites.
+Use `pip install -r requirement.txt` or `conda create -n eureka1 python=3.9 --file requirement.txt` to install prerequisites.
 
 # Related LeetCode problems
 
