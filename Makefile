@@ -2,4 +2,4 @@
 
 dirs: $(wildcard ch*)
 test: 
-	pytest $(dirs)
+	poetry run pytest $(dirs)

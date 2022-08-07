@@ -1,1 +1,1 @@
-from .first_missing_positive import first_missing_positive
+from ch02.first_missing_positive import first_missing_positive
